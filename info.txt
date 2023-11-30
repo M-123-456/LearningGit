@@ -1,0 +1,7 @@
+this is a critical message that I'm going to amend
+
+commit #2
+
+commit #3
+
+commit #4
